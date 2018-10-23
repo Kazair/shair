@@ -23,62 +23,62 @@
   top: 507px;
 }
 #panel{
-  background:url(img/skins/halloween/panel.png);
+  background:url(http://dev.margonem.pl/img/skins/halloween/panel.png);
 }
 #stats{
-  background-image:url(img/skins/halloween/stats.png);
+  background-image:url(http://dev.margonem.pl/img/skins/halloween/stats.png);
 }
 #buttons DIV {
-  background-image:url(img/skins/halloween/if-buttons.png)
+  background-image:url(http://dev.margonem.pl/img/skins/halloween/if-buttons.png)
 }
 #bottombar {
-  background:url(img/skins/halloween/bottom-bar.png);
+  background:url(http://dev.margonem.pl/img/skins/halloween/bottom-bar.png);
 }
 #bchat{
-  background:url(img/skins/halloween/if-buttons.png) no-repeat -136px -44px;
+  background:url(http://dev.margonem.pl/img/skins/halloween/if-buttons.png) no-repeat -136px -44px;
 }
 #pvpmode {
-  background-image:url(img/skins/halloween/pvpmode.png);
+  background-image:url(http://dev.margonem.pl/img/skins/halloween/pvpmode.png);
 }
 #logoutbut{
-  background:url(img/skins/halloween/if-buttons.png) no-repeat -68px -44px;
+  background:url(http://dev.margonem.pl/img/skins/halloween/if-buttons.png) no-repeat -68px -44px;
 }
 #helpbut {
-  background:url(img/skins/halloween/if-buttons.png) no-repeat 0 -44px;
+  background:url(http://dev.margonem.pl/img/skins/halloween/if-buttons.png) no-repeat 0 -44px;
 }
 #inpchat {
-  background:url(img/skins/halloween/bottom-bar.png) no-repeat -50px -10px;
+  background:url(http://dev.margonem.pl/img/skins/halloween/bottom-bar.png) no-repeat -50px -10px;
 }
 #skillSwitch.first{
-  background: url(img/skins/halloween/um_set.gif) 0px -32px;
+  background: url(http://dev.margonem.pl/img/skins/halloween/um_set.gif) 0px -32px;
 }
 #skillSwitch.second{
-  background: url(img/skins/halloween/um_set.gif) 0px 0px;
+  background: url(http://dev.margonem.pl/img/skins/halloween/um_set.gif) 0px 0px;
 }
 #nick{
   color: black;text-shadow: 0px 0px 5px orange, 0px 0px 10px red, 0px 0px 5px orange;
 }
 #lagmeter{
-  background:url(img/skins/halloween/lagometer.png);
+  background:url(http://dev.margonem.pl/img/skins/halloween/lagometer.png);
 }
 #volumeSlider .marker{
-  background-image:url(/img/skins/halloween/music_interface.png);
+  background-image:url(http://dev.margonem.pl/img/skins/halloween/music_interface.png);
 }
 #startbutton, #shufflebutton, #hdbutton{
-  background-image:url(/img/skins/halloween/music_interface.png);
+  background-image:url(http://dev.margonem.pl/img/skins/halloween/music_interface.png);
 }
 #chat, #chattabs S{
-  background-image:url(img/skins/halloween/chat.png);
+  background-image:url(http://dev.margonem.pl/img/skins/halloween/chat.png);
 }
 #leorn1, #leorn2{
   display:none;
 }
 #chat.left {
   background-color:#444;
-  background-image:url(img/skins/halloween/chat-left.png);
+  background-image:url(http://dev.margonem.pl/img/skins/halloween/chat-left.png);
 }
 #chat.left #chattabs s {
-  background-image:url(img/skins/halloween/chat-left.png);
+  background-image:url(http://dev.margonem.pl/img/skins/halloween/chat-left.png);
 }
 #ver{
   left:545px;
