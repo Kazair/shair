@@ -673,7 +673,7 @@ html:before{
      width:180px;
      height:512px;
      background: #000000e0;
-     background: linear-gradient(to right, #401a06db, #1f0707cf);
+     background: linear-gradient(to right, #5f2303db, #130707cf);
      transition: transform 700ms ease-in-out;
      box-shadow: -3px 0px 5px 1px rgba(0, 0, 0, 0.6);
 }
@@ -768,7 +768,7 @@ html:before{
  DIV#b_news{
      left:234px;
      top:5px;
-     background-image:url(https://i.imgur.com/78utTo1.png) !important;
+     background-image:url(https://i.imgur.com/gpUKe6m.png) !important;
 }
  DIV#b_addons{
      left:237px;
