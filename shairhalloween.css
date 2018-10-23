@@ -34,7 +34,7 @@
 #bchat{
   background:url(https://i.imgur.com/CawFo4d.png) no-repeat -136px -44px;
   top: 520px;
-  left: -7px;	
+  left: 5px;	
 }
 #pvpmode {
   background-image:url(http://dev.margonem.pl/img/skins/halloween/pvpmode.png);
@@ -54,9 +54,9 @@
   background:url(http://dev.margonem.pl/img/skins/halloween/bottom-bar.png) no-repeat -50px -10px;
 }
 #skillSwitch{
-  background: url(https://i.imgur.com/aE79T0o.png) !important;
   top:112px;
   left:92px;
+  background: url(https://i.imgur.com/aE79T0o.png) !important;	
 }
 #nick{
   color: black;text-shadow: 0px 0px 5px orange, 0px 0px 10px red, 0px 0px 5px orange;
@@ -676,7 +676,7 @@ html:before{
      width:180px;
      height:512px;
      background: #000000e0;
-     background: linear-gradient(to right, #000000e0, #182111cf);
+     background: linear-gradient(to right, #401a06db, #1f0707cf);
      transition: transform 700ms ease-in-out;
      box-shadow: -3px 0px 5px 1px rgba(0, 0, 0, 0.6);
 }
@@ -768,6 +768,14 @@ html:before{
      left:145px;
      top:205px;
 }
+ .b_buttons{
+     background-image:url(https://i.imgur.com/CawFo4d.png);
+     background-position-y: 0px !important;
+     background-position-x: 242px !important;
+}
+ DIV#b_news.notif{
+     background-image:url(https://i.imgur.com/XT7M1dc.png);
+}	
  DIV#b_news{
      left:234px;
      top:5px;
