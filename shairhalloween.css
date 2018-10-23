@@ -25,6 +25,9 @@
 #panel{
   background:url(https://i.imgur.com/TwCCfmw.png);
 }
+ #buttons DIV{
+     background-image:url(https://i.imgur.com/CawFo4d.png) !important;
+}
 #bottombar {
   background:url(http://dev.margonem.pl/img/skins/halloween/bottom-bar.png);
 }
@@ -769,7 +772,7 @@ html:before{
  DIV#b_addons{
      left:237px;
      top:230px;
-     background-image:url(https://i.imgur.com/JghfWsv.png);
+     background-image:url(https://i.imgur.com/CawFo4d.png);
 }
  #premiumbut{
      left:541px;
@@ -1069,7 +1072,7 @@ html:before{
      top: 205px;
      left: 236px;
      height: 22px;
-     background: url(https://i.imgur.com/8nEQdHt.png);
+     background: url(https://i.imgur.com/572aIRM.png);
      background-position-y: 0px !important;
      background-position-x: 22px !important;
 }
