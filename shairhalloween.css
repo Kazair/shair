@@ -765,16 +765,10 @@ html:before{
      left:145px;
      top:205px;
 }
- DIV#b_news.notif{
-     background-image:url(https://i.imgur.com/XT7M1dc.png);
-}	
-DIV#b_news:hover{
-     background-image:url(https://i.imgur.com/XT7M1dc.png);
-}	
  DIV#b_news{
      left:234px;
      top:5px;
-     background-image:url(https://i.imgur.com/XT7M1dc.png);
+     background-image:url(https://i.imgur.com/78utTo1.png) !important;
 }
  DIV#b_addons{
      left:237px;
