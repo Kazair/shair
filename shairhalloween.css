@@ -33,9 +33,13 @@
 }
 #bchat{
   background:url(http://dev.margonem.pl/img/skins/halloween/if-buttons.png) no-repeat -136px -44px;
+  top: 520px;
+  left: -7px;	
 }
 #pvpmode {
   background-image:url(http://dev.margonem.pl/img/skins/halloween/pvpmode.png);
+  top: 520px;
+  left: 474px;	
 }
 #logoutbut{
   background:url(http://dev.margonem.pl/img/skins/halloween/if-buttons.png) no-repeat -68px -44px;
@@ -950,7 +954,8 @@ html:before{
      color:#5B7019;
 }
  #botloc{
-     top:519px;
+     top:520px;
+     left: 429px;
 }    
  .a2 {
      color: #5B7019;
