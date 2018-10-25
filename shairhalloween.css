@@ -22,6 +22,9 @@
   left: 475px; 
   top: 507px;
 }
+#corners img {
+    filter: hue-rotate(315deg) brightness(150%);
+}
 #panel{
   background:url(https://i.imgur.com/TwCCfmw.png);
 }
@@ -180,8 +183,9 @@
     margin: 7px;
     position: relative;
     vertical-align: top;
-    background:url(https://i.imgur.com/ZxrwgpS.png);
-    transition: box-shadow 250ms;	 
+    background: #33333385;
+    transition: box-shadow 250ms;
+    border-radius: 0 8px 0 8px;
 }
 .shair-item-slot img{
 	pointer-events: none;
@@ -272,7 +276,7 @@ html:before{
      height: 538px;
      right: -37px;
      background: #000000ad;
-     border: 1px solid #4a541a;
+     border: 1px solid #c75108;
      border-left: none;
      border-top-right-radius: 1em;
      border-bottom-right-radius: 1em;
@@ -1082,6 +1086,9 @@ html:before{
 }
  #b_pvp.active{
      background-position-x: 0px !important;
+}
+#right-icons a[data-icon] {
+    filter: grayscale(40) contrast(150%);
 }
 #right-icons a[data-icon="0"]{
     background-image: url(https://i.imgur.com/OqaR24I.png);
