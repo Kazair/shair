@@ -98,7 +98,8 @@
     position: relative;
     vertical-align: top;
     background:url(https://i.imgur.com/ZxrwgpS.png);
-    transition: box-shadow 250ms;	 
+    transition: box-shadow 250ms;
+    border-radius: 0 8px 0 8px;	
 }
 .shair-item-slot img{
 	pointer-events: none;
