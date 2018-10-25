@@ -1088,7 +1088,7 @@ html:before{
      background-position-x: 0px !important;
 }
 #right-icons a[data-icon] {
-    filter: grayscale(40) contrast(150%);
+    filter: grayscale(0.8) contrast(110%);
 }
 #right-icons a[data-icon="0"]{
     background-image: url(https://i.imgur.com/OqaR24I.png);
