@@ -789,7 +789,7 @@ html:before{
  #alert, #dlgwin, #staminashop, .MM-alert{
      background-image: url(https://i.imgur.com/vPJ0DhO.png) !important;
 }
- #alert .a1, #alert .a3, #alert button, #dlgwin .w1, #staminashop .a1, #staminashop .a3, #staminashop button{
+ #alert .a1, #alert .a3, #alert button, #dlgwin .w1, #staminashop .a1, #staminashop .a3{
      background-image: url(https://i.imgur.com/dSLJ99k.png) !important;
 }
  #chat, #chattabs, #chattabs s{
