@@ -832,6 +832,9 @@ html:before{
      top:214px;
      left:84px;
 }
+#new_event_calendar{
+     display: none !important;
+}	
 /* CSS ZMIANA GRAFIK(POZOSTA?E) */
  #recipes {
      background-image: url(https://i.imgur.com/THQC2MA.png);
@@ -1172,5 +1175,5 @@ html:before{
     background-image: url(https://i.imgur.com/NAaaiuB.png);
 }
 #right-icons a[data-icon="7"]{
-    background-image: url(https://i.imgur.com/tlUvwJn.png);
+    background-image: url(http://s6.ifotos.pl/img/kalendarz_qwrahew.png);
 }
