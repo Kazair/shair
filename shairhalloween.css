@@ -810,7 +810,7 @@ html:before{
      left:84px;
 }
 #new_event_calendar{
-     display: none;
+     display: none !important;
 }	
 /* CSS ZMIANA GRAFIK(POZOSTAŁE) */
  #recipes {
