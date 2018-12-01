@@ -736,6 +736,9 @@ html:before{
      top:214px;
      left:84px;
 }
+#new_event_calendar{
+     display: none;
+}
 /* CSS ZMIANA GRAFIK(POZOSTAŁE) */
  #recipes {
      background-image: url(https://i.imgur.com/Jj9Y8LK.png);
