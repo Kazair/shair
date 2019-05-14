@@ -1076,6 +1076,6 @@ html:before{
 }
 #right-icons a[data-icon="7"]{
     background-image: url(http://s6.ifotos.pl/img/kalendarz_qwraheh.png);
-    border-radius: 0px 8px 0px 8px;
-    box-shadow: 0px 0px 3px 2px #34a333;	
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 0px 0px #34a333;	
 }
