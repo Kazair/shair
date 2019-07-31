@@ -32,6 +32,12 @@
  .checkbox-gd.active{
      background-position-y: -22px;
 }
+.changeClient{
+    background-image: url(https://i.imgur.com/tFGSpRx.png);
+    width: 93px;
+    heigth: 29px;
+    bottom: -5px;
+}
 #tip.t_shair b{
     display: inline;
 }
