@@ -32,7 +32,7 @@
      background-position-y: -22px;
 }
 .changeClient{
-    background-image: url(https://i.imgur.com/3PQo23O.png);
+    background: url(https://i.imgur.com/3PQo23O.png);
 }
 #tip.t_shair b{
     display: inline;
