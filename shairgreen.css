@@ -952,7 +952,8 @@ html:before{
      font-weight: 700;
 }
  .avatar{
-     position:none;
+     display:none;
+     position:absolute;
      top:-2px;
      left:16px;
      width:32px;
