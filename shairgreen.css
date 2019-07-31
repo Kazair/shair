@@ -37,6 +37,9 @@
     heigth: 29px;
     bottom: -5px;
 }
+#shop_recover_items, #create_new_clan, #create_new_clan:hover{
+    background-image: url(https://i.imgur.com/KZuNvQy.png);
+}
 #tip.t_shair b{
     display: inline;
 }
