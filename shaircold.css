@@ -1052,6 +1052,7 @@ html:before{
      font-weight: 700;
 }
  .avatar{
+     display:none;
      position:absolute;
      top:-2px;
      left:16px;
