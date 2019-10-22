@@ -996,11 +996,12 @@ html:before{
 }
  .avatar{
      display:none;
+     background-image: url(https://margonem.pl/obrazki/pets//events/halloween02-1.gif) !important;
      position:absolute;
-     top:-2px;
+     top:-3px;
      left:16px;
-     width:32px;
-     height:32px;
+     width:40px;
+     height:40px;
      z-index:350;
      opacity: 0.8;
 }
