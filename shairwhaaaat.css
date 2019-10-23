@@ -925,6 +925,10 @@ html:before{
 #chat.left #chattabs s {
   background-image:url(https://i.imgur.com/8mE7Dek.png);
 }
+#chat.left {
+  background-color:#444;
+  background-image:url(https://i.imgur.com/8mE7Dek.png);
+}
  #cfg_options DIV, .my-checkbox, .my-checkbox.active{
      color: #7d8289;
      font: 13px "Lato", sans-serif;
