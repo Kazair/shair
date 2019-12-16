@@ -71,6 +71,9 @@
  #quest-log-window {
      background-image: url(https://i.imgur.com/WonrKKw.png);
  }
+.questlist p{
+     color: #218421;
+}	
 #lagmeter{
   background:url(http://dev.margonem.pl/img/skins/halloween/lagometer.png);
 }
