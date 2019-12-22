@@ -917,17 +917,17 @@ html:before{
      background-image: url(https://i.imgur.com/a5xURjr.png) !important;
 }
 #chat, #chattabs S{
-  background-image:url(https://i.imgur.com/I3q4C0g.png);
+  background-image:url(https://i.imgur.com/sgNqnZY.png);
 }
 #leorn1, #leorn2{
   display:none;
 }
 #chat.left #chattabs s {
-  background-image:url(https://i.imgur.com/sgNqnZY.png);
+  background-image:url(https://i.imgur.com/I3q4C0g.png);
 }
 #chat.left {
   background-color:#444;
-  background-image:url(https://i.imgur.com/8mE7Dek.png);
+  background-image:url(https://i.imgur.com/I3q4C0g.png);
 }
  #cfg_options DIV, .my-checkbox, .my-checkbox.active{
      color: #7d8289;
@@ -1191,5 +1191,5 @@ html:before{
 #right-icons a[data-icon="7"]{
     background-image: url(http://s6.ifotos.pl/img/kalendarz_qwrahew.png);
     border-radius: 0px 8px 0px 8px;
-    box-shadow: 0px 0px 3px 2px #00baf1;
+    box-shadow: 0px 0px 3px 2px #ffffffa8;
 }
