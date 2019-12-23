@@ -892,6 +892,12 @@ html:before{
  .item SMALL{
      font-size:12px;
 }
+ #quest-log-window {
+     background-image: url(https://i.imgur.com/WonrKKw.png);
+ }
+.questlist p{
+     color: #218421;
+}
  .questlist p{
      background-image: url(https://i.imgur.com/oGr6Dvo.png);
      font: 15px "Lato", sans-serif;
