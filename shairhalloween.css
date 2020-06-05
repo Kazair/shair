@@ -881,7 +881,11 @@ html:before{
  #alert .a1, #alert .a3, #alert button, #dlgwin .w1, #staminashop .a1, #staminashop .a3{
      background-image: url(https://i.imgur.com/dSLJ99k.png) !important;
 }
- #cfg_options DIV, .my-checkbox, .my-checkbox.active{
+ #cfg_options DIV{
+     color: #5B7019;
+     font: 13px "Lato", sans-serif;
+}
+.my-checkbox, .my-checkbox.active{
      color: #5B7019;
      font: 13px "Lato", sans-serif;
      background-image: url(https://i.imgur.com/rCP0uw0.png);
