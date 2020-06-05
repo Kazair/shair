@@ -835,7 +835,7 @@ html:before{
  #chat.left, #chattabs.left, #chat.left #chattabs s{
      background-image: url(https://i.imgur.com/FNySper.png);
 }
- #cfg_options DIV, .my-checkbox, .my-checkbox.active{
+ #cfg_options DIV{
      color: #5B7019;
      font: 13px "Lato", sans-serif;
 }
