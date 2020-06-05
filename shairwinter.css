@@ -935,8 +935,12 @@ html:before{
   background-color:#444;
   background-image:url(https://i.imgur.com/I3q4C0g.png);
 }
- #cfg_options DIV, .my-checkbox, .my-checkbox.active{
+ #cfg_options DIV{
      color: #7d8289;
+     font: 13px "Lato", sans-serif;
+}
+.my-checkbox, .my-checkbox.active{
+     color: #5B7019;
      font: 13px "Lato", sans-serif;
      background-image: url(https://i.imgur.com/lzJSNWb.png);
 }
