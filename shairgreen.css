@@ -950,6 +950,7 @@ html:before{
  .a2 {
      color: #5B7019;
      font: 14px "Lato", sans-serif;
+     background-image: url(https://i.imgur.com/vPJ0DhO.png) !important;
 }
  #skillcount {
      color: #5B7019;
