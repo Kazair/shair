@@ -316,7 +316,7 @@ html:before{
      background-color: transparent;
 }
  #tradebg, #trade BUTTON{
-     background-image: url(https://i.imgur.com/89uPna6.png);
+     background-image: url(https://i.imgur.com/wAFXVRL.png);
      background-color: transparent;
 }
 #loots {
@@ -759,9 +759,6 @@ html:before{
      display: none !important;
 }
 /* CSS ZMIANA GRAFIK(POZOSTAŁE) */
- #recipes {
-     background-image: url(https://i.imgur.com/Jj9Y8LK.png);
-}
  #addonspanel{
      background-image: url(https://i.imgur.com/KJyQR1Q.png);
 }
