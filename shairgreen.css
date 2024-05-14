@@ -137,6 +137,9 @@
 #for-you-plug{
     background:url(https://i.imgur.com/IL6scQa.png) -0px -942px;
 }
+DIV{
+    color:white;
+}
 .shair-item-slot small{
     opacity: 0.5;
     font-size: 12px;
