@@ -321,10 +321,9 @@ html:before{
 }
  DIV#crafting{
      background: url(https://i.imgur.com/TYII1Z4.png);
-     color: white;
 }
  DIV{
-     color: white;
+     color: #ffffffdb;
  }
 #recipes{
 	background-image: url(https://i.imgur.com/jMY2BJn.png);
