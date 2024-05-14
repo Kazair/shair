@@ -319,6 +319,13 @@ html:before{
      background-image: url(https://i.imgur.com/wAFXVRL.png);
      background-color: transparent;
 }
+ #crafting .crafting{
+     background: url(https://i.imgur.com/TYII1Z4.png);
+     color: white;
+}
+#recipes{
+	background-image: url(https://i.imgur.com/jMY2BJn.png);
+}
 #loots {
     border-image: url(https://i.imgur.com/lbOPx2C.png) 41 32 17 49 fill round;
 }
