@@ -38,7 +38,7 @@
     bottom: -5px;
 }
 #dropmenu{
-    background: url(https://i.imgur.com/TYII1Z4.png) repeat center center;
+    background-image: url(https://i.imgur.com/TYII1Z4.png);
     color: white;
 }
  #quest-log-window {
