@@ -326,7 +326,7 @@ html:before{
  DIV#crafting{
      background: url(https://i.imgur.com/TYII1Z4.png);
 }
- .enhance__content, .salvage__content, .extraction__content, {
+ .enhance__content, .salvage__content, .extraction__content{
      color: white;
  }
 #recipes{
