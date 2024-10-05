@@ -38,7 +38,7 @@
      background-image:url(https://i.imgur.com/CawFo4d.png) !important;
 }
 #bottombar {
-  background:url(http://dev.margonem.pl/img/skins/halloween/bottom-bar.png);
+  background:url(https://telawel.margonem.pl/img/skins/halloween/bottom-bar.png);
 }
 #bchat{
   background:url(https://i.imgur.com/CawFo4d.png) no-repeat -136px -44px;
@@ -46,7 +46,7 @@
   left: 5px;	
 }
 #pvpmode {
-  background-image:url(http://dev.margonem.pl/img/skins/halloween/pvpmode.png);
+  background-image:url(http://telawel.margonem.pl/img/skins/halloween/pvpmode.png);
   top: 520px;
   left: 474px;	
 }
@@ -75,10 +75,7 @@
      color: #218421;
 }	
 #lagmeter{
-  background:url(http://dev.margonem.pl/img/skins/halloween/lagometer.png);
-}
-#chat, #chattabs S{
-  background-image:url(http://dev.margonem.pl/img/skins/halloween/chat.png);
+  background:url(http://telawel.margonem.pl/img/skins/halloween/lagometer.png);
 }
 #leorn1, #leorn2{
   display:none;
