@@ -57,7 +57,7 @@
   background-position: 0 0 !important;	
 }
 #inpchat {
-  background:url(http://dev.margonem.pl/img/skins/halloween/bottom-bar.png) no-repeat -50px -10px;
+     background-image:url(https://i.imgur.com/yjxN9IN.png);
 }
 #skillSwitch{
   top:112px;
@@ -83,12 +83,11 @@
 #leorn1, #leorn2{
   display:none;
 }
-#chat.left {
-  background-color:#444;
-  background-image:url(http://dev.margonem.pl/img/skins/halloween/chat-left.png);
+ #chat, #chattabs, #chattabs s{
+     background-image:url(https://i.imgur.com/DQ41QuO.png);
 }
-#chat.left #chattabs s {
-  background-image:url(http://dev.margonem.pl/img/skins/halloween/chat-left.png);
+ #chat.left, #chattabs.left, #chat.left #chattabs s, #chat.left #chattabs{
+     background-image: url(https://i.imgur.com/FNySper.png);
 }
 #ver{
   left:545px;
